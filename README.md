@@ -1,1 +1,1 @@
-run `./compile_shaders.sh & odin run .`
+run `./compile_shaders.sh` and  `odin run .`
